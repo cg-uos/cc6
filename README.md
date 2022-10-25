@@ -5,3 +5,4 @@
 - Implemented in Python3 with OpenGL binding.
 - How to run: >> python3 raycaster_cc6.py <volume_data_name>
   - volume_data_name: one of {"ML40", "ML50", "ML80"}.
+- WARNING: install pyglm not glm.
